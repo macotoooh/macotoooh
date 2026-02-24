@@ -1,12 +1,13 @@
 # Hi, I'm Makoto :)
 
-I'm a **Front-End Developer** with 4 years of experience, including 6 months as a team lead.  
-I specialize in building modern, scalable web applications using **React**, **TypeScript**, and frameworks like **Next.js** and **Remix**.
-Recently focused on learning AI and building practical features with OpenAI.
+Front-End Developer with 4 years of experience shipping production-ready web applications.  
+I build scalable, maintainable interfaces using **React**, **TypeScript**, **Next.js**, and **Remix**, with a strong focus on structured data flows and clean UI architecture.
 
-- 🎨 Passionate about UI/UX and clean architecture
-- 🛠️ Focused on maintainability, accessibility, and testability
-- 🌍 Based in Vancouver / Native Japanese 🇯🇵 / Learning English 🇨🇦
+Recently, I’ve been integrating AI into real-world front-end products and implementing secure server-side OpenAI integrations for audio processing, feedback systems, and intelligent task suggestions.
+
+- 🎯 Care deeply about usability and feedback-driven design
+- 🏗️ Architect modular, maintainable component systems
+- 🌍 Based in Vancouver | Native Japanese 🇯🇵 | Actively improving English 🇨🇦
 
 ## 🔧 Tech Stack
 
@@ -45,16 +46,14 @@ Recently focused on learning AI and building practical features with OpenAI.
 ## 🧩 Project Highlights
 
 - **📝 [Todo App (Remix-style architecture)](https://github.com/macotoooh/To-do-app)**  
-  Modular app using server-driven routing with React Router Data APIs, including features powered by OpenAI.
+  Production-oriented task management app built with React Router Data APIs and server-side actions.  
+  Designed to reflect real-world scalability, modular architecture, and AI-assisted task workflows.
 
-- **🗣️ [Speak-Polish-AI](https://github.com/macotoooh/Speak-Polish-AI)**
-  AI-powered English speaking coach for pronunciation, TTS playback, and grammar rewrites.
+- **🗣️ [Speak-Polish-AI](https://github.com/macotoooh/Speak-Polish-AI)**  
+  AI-powered speaking coach that processes user audio, performs transcription and pronunciation analysis, and returns structured grammar feedback via OpenAI APIs.
 
 - **🧠 [UI Components in Storybook](https://github.com/macotoooh/ui-components-storybook)**  
-  Reusable components with visual docs and interactive demos
-
-- **🌈 [Tailwind Cheat Sheet](https://github.com/macotoooh/tailwind-cheatsheet)**  
-  Personal reference built with React & Storybook
+  Reusable component system with interactive documentation and design consistency validation.
 
 ## 📫 Contact
 
