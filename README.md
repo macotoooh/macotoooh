@@ -2,6 +2,7 @@
 
 I'm a **Front-End Developer** with 4 years of experience, including 6 months as a team lead.  
 I specialize in building modern, scalable web applications using **React**, **TypeScript**, and frameworks like **Next.js** and **Remix**.
+Recently focused on learning AI and building practical features with OpenAI.
 
 - 🎨 Passionate about UI/UX and clean architecture
 - 🛠️ Focused on maintainability, accessibility, and testability
@@ -44,7 +45,10 @@ I specialize in building modern, scalable web applications using **React**, **Ty
 ## 🧩 Project Highlights
 
 - **📝 [Todo App (Remix-style architecture)](https://github.com/macotoooh/To-do-app)**  
-  Modular app using server-driven routing with React Router Data APIs
+  Modular app using server-driven routing with React Router Data APIs, including features powered by OpenAI.
+
+- **🗣️ [Speak-Polish-AI](https://github.com/macotoooh/Speak-Polish-AI)**
+  AI-powered English speaking coach for pronunciation, TTS playback, and grammar rewrites.
 
 - **🧠 [UI Components in Storybook](https://github.com/macotoooh/ui-components-storybook)**  
   Reusable components with visual docs and interactive demos
