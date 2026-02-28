@@ -1,20 +1,22 @@
 # Hi, I'm Makoto :)
 
-Front-End Developer with 4 years of experience shipping production-ready web applications.  
+Front-End Developer with 4+ years of experience building production-ready web applications.
+
 I build scalable, maintainable interfaces using **React**, **TypeScript**, **Next.js**, and **Remix**, with a strong focus on structured data flows and clean UI architecture.
 
-Recently, I’ve been integrating AI into real-world front-end products and implementing secure server-side OpenAI integrations for audio processing, feedback systems, and intelligent task suggestions.
+Recently, I’ve been integrating AI-powered features into real-world front-end products, including audio processing, intelligent feedback systems, and task assistance.
 
-- 🎯 Care deeply about usability and feedback-driven design
-- 🏗️ Architect modular, maintainable component systems
-- 🌍 Based in Vancouver | Native Japanese 🇯🇵 | Actively improving English 🇨🇦
+- Focus on usability, accessibility, and user-centered design
+- Architect modular, maintainable component systems
+- Based in Vancouver, Canada
+- 🇯🇵 Native Japanese | 🇨🇦 Working in English
 
 ## 🔧 Tech Stack
 
 ### 💻 Languages & Frameworks
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white)
 
@@ -46,14 +48,21 @@ Recently, I’ve been integrating AI into real-world front-end products and impl
 ## 🧩 Project Highlights
 
 - **📝 [Todo App (Remix-style architecture)](https://github.com/macotoooh/To-do-app)**  
-  Production-oriented task management app built with React Router Data APIs and server-side actions.  
-  Designed to reflect real-world scalability, modular architecture, and AI-assisted task workflows.
+  🔗 **Live Demo:** https://todo-app-ivory-pi-75.vercel.app/todos
+
+  Demonstrates scalable architecture and server-driven data workflows.  
+  A production-oriented task management app built with React Router Data APIs and server-side actions, designed to reflect real-world scalability and modular architecture.
 
 - **🗣️ [Speak-Polish-AI](https://github.com/macotoooh/Speak-Polish-AI)**  
-  AI-powered speaking coach that processes user audio, performs transcription and pronunciation analysis, and returns structured grammar feedback via OpenAI APIs.
+  🔗 **Live Demo:** https://speak-polish-ai.vercel.app/
+
+  Processes user audio and provides AI-powered pronunciation feedback.  
+  An AI speaking coach that transcribes speech, analyzes pronunciation, and returns structured grammar feedback using OpenAI APIs.
+  Designed to support real-world English learners.
 
 - **🧠 [UI Components in Storybook](https://github.com/macotoooh/ui-components-storybook)**  
-  Reusable component system with interactive documentation and design consistency validation.
+  Reusable component system with interactive documentation and design consistency validation.  
+  Supports scalable design systems and team collaboration.
 
 ## 📫 Contact
 
