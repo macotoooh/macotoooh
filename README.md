@@ -53,7 +53,7 @@ Recently, I’ve been integrating AI-powered features into real-world front-end 
   Demonstrates scalable architecture and server-driven data workflows.  
   A production-oriented task management app built with React Router Data APIs and server-side actions, designed to reflect real-world scalability and modular architecture.
 
-- **🗣️ [Speak-Polish-AI](https://github.com/macotoooh/Speak-Polish-AI)**  
+- **🗣️ [Speak-Coach-AI](https://github.com/macotoooh/speak-coach-ai)**  
   🔗 **Live Demo:** https://speak-polish-ai.vercel.app/
 
   Processes user audio and provides AI-powered pronunciation feedback.  
