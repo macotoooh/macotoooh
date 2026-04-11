@@ -1,13 +1,14 @@
 # Hi, I'm Makoto :)
 
-Front-End Developer with 4+ years of experience building production-ready web applications.
+I'm a Front-End Developer with 4+ years of experience building production-ready web applications.
 
-I build scalable, maintainable interfaces using **React**, **TypeScript**, **Next.js**, and **Remix**, with a strong focus on structured data flows and clean UI architecture.
+I specialize in **React**, **TypeScript**, **Next.js**, and **Remix**, and I enjoy turning complex product requirements into clean, scalable interfaces that are easy to maintain.
 
-Recently, I’ve been integrating AI-powered features into real-world front-end products, including audio processing, intelligent feedback systems, and task assistance.
+Recently, I've been working on AI-powered product features, including audio processing, intelligent feedback flows, and task assistance. I'm especially interested in building user experiences that feel simple on the surface while handling real complexity underneath.
 
-- Focus on usability, accessibility, and user-centered design
-- Architect modular, maintainable component systems
+- Build scalable, maintainable front-end architecture
+- Care deeply about usability, accessibility, and product quality
+- Comfortable working across UI implementation, component design, and async data flows
 - Based in Vancouver, Canada
 - 🇯🇵 Native Japanese | 🇨🇦 Working in English
 
@@ -47,22 +48,10 @@ Recently, I’ve been integrating AI-powered features into real-world front-end 
 
 ## 🧩 Project Highlights
 
-- **📝 [Todo App (Remix-style architecture)](https://github.com/macotoooh/To-do-app)**  
-  🔗 **Live Demo:** https://todo-app-ivory-pi-75.vercel.app/todos
-
-  Demonstrates scalable architecture and server-driven data workflows.  
-  A production-oriented task management app built with React Router Data APIs and server-side actions, designed to reflect real-world scalability and modular architecture.
-
 - **🗣️ [Speak-Coach-AI](https://github.com/macotoooh/speak-coach-ai)**  
   🔗 **Live Demo:** https://speak-polish-ai.vercel.app/
 
-  Processes user audio and provides AI-powered pronunciation feedback.  
-  An AI speaking coach that transcribes speech, analyzes pronunciation, and returns structured grammar feedback using OpenAI APIs.
-  Designed to support real-world English learners.
-
-- **🧠 [UI Components in Storybook](https://github.com/macotoooh/ui-components-storybook)**  
-  Reusable component system with interactive documentation and design consistency validation.  
-  Supports scalable design systems and team collaboration.
+Built an AI-powered speaking practice app for non-native English learners with audio-based pronunciation feedback, natural TTS playback, and in-place grammar rewrite suggestions. Designed a frontend experience around real-time recording, asynchronous AI workflows, and fallback-based feedback handling.
 
 ## 📫 Contact
 
